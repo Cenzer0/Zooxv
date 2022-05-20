@@ -52,12 +52,12 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=cenzoo&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=cenzoo&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Zooxv&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zooxv&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Falih' Activity Graph](https://activity-graph.herokuapp.com/graph?username=cenzoo&custom_title=Zoo%20Xv's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Falih' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zooxv&custom_title=Zoo%20Xv's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 
