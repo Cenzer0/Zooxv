@@ -32,32 +32,17 @@ class cenzoo():
 if __name__ == '__main__':
     me = Cenzooo()
 ```
-
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
 ## My Statistics
 
 <br/>
 <p align="left">
-  <a href="https://github.com/zooxv">
+  <a href="https://github.com/Cenzer0">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Zooxv&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zooxv&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Falih' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zooxv&custom_title=Zoo%20Xv's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Falih' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cenzer0&custom_title=Cenze%20r0's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 
